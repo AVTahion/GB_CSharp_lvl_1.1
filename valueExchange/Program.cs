@@ -27,6 +27,16 @@ namespace valueExchange
 
             Console.WriteLine($"Значения переменных после обмена: a = {a}, b = {b}");
             Console.ReadLine();
+
+            Console.WriteLine("Обмен значений двух переменных без использования третьей");
+            Console.WriteLine($"Значения переменных до обмена: a = {a}, b = {b}\n");
+
+            a = a ^ b;
+            b = b ^ a;
+            a = a ^ b;
+
+            Console.WriteLine($"Значения переменных после обмена: a = {a}, b = {b}");
+            Console.ReadLine();
         }
     }
 }

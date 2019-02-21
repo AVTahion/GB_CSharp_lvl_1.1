@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_CSharp_lvl_1.1-1_profile", "GB_CSharp_lvl_1.1\GB_CSharp_lvl_1.1-1_profile.csproj", "{FEEAD32A-C4FD-4CD2-80F5-14081E137622}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_1_and_2", "GB_CSharp_lvl_1.1\Task_1_and_2.csproj", "{FEEAD32A-C4FD-4CD2-80F5-14081E137622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "distanceBetweenPoints", "distanceBetweenPoints\distanceBetweenPoints.csproj", "{C0483591-BBBF-44E3-8DD0-09D92D705235}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_3", "distanceBetweenPoints\Task_3.csproj", "{C0483591-BBBF-44E3-8DD0-09D92D705235}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valueExchange", "valueExchange\valueExchange.csproj", "{1AE16137-AD12-4B33-975E-71213AB9B3F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_4", "valueExchange\Task_4.csproj", "{1AE16137-AD12-4B33-975E-71213AB9B3F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myProfile", "myProfile\myProfile.csproj", "{4FBD1267-CA01-49DA-842A-E4345A6DC936}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_5", "myProfile\Task_5.csproj", "{4FBD1267-CA01-49DA-842A-E4345A6DC936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
